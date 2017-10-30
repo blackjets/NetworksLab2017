@@ -1,3 +1,5 @@
+/*Файл содержит реализацию сервера TCP linux
+Никитин А.Е. 43501/1*/
 #include <stdio.h>  //std i/o
 #include <stdlib.h> 
 #include <netdb.h>  
